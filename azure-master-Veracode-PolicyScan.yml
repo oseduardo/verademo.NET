@@ -20,3 +20,16 @@ steps:
     replaceExistingArchive: true
     verbose: true
 
+- task: Veracode@3
+  inputs:
+    ConnectionDetailsSelection: 'Endpoint'
+    AnalysisService: 'Veracode'
+    veracodeAppProfile: 'Verademo .NET'
+    version: '$(build.buildNumber)'
+    filepath: '/home/vsts/work/1/s/$(Build.BuildId).zip'
+    createSandBox: false
+    createProfile: false
+    failTheBuildIfVeracodeScanDidNotInitiate: true
+    scanStatusCheckInterval: '60'
+    importResults: false
+    failBuildOnPolicyFail: true
