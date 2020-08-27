@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Error/AccessDenied.cshtml" hash="74d8eb7" filehash="1ae07b53c35d" flags="110000" assembly="App_Web_accessdenied.cshtml.62599428" type="ASP._Page_Views_Error_AccessDenied_cshtml">
+    <filedeps>
+        <filedep name="/Views/Error/AccessDenied.cshtml" />
+    </filedeps>
+</preserve>

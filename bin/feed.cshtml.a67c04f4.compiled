@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Blab/Feed.cshtml" hash="74d8eb7" filehash="ffffc3cd478a6ecc" flags="110000" assembly="App_Web_feed.cshtml.a67c04f4" type="ASP._Page_Views_Blab_Feed_cshtml">
+    <filedeps>
+        <filedep name="/Views/Blab/Feed.cshtml" />
+    </filedeps>
+</preserve>

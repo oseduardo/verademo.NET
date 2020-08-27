@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Shared/_LoginLayout.cshtml" hash="74d8eb7" filehash="36dca93c7261" flags="110000" assembly="App_Web__loginlayout.cshtml.639c3968" type="ASP._Page_Views_Shared__LoginLayout_cshtml">
+    <filedeps>
+        <filedep name="/Views/Shared/_LoginLayout.cshtml" />
+    </filedeps>
+</preserve>
